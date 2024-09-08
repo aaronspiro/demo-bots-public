@@ -1,0 +1,575 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+  <!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>Join | Collaborative Project Delivery Platform</title>
+  <meta name="description" content="Join brings together contractors, owners, and design teams to facilitate better decision-making from preconstruction through execution." />
+  <link rel="canonical" href="https://join.build/" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Join | Collaborative Project Delivery Platform" />
+  <meta property="og:description" content="Join brings together contractors, owners, and design teams to facilitate better decision-making from preconstruction through execution." />
+  <meta property="og:url" content="https://join.build/" />
+  <meta property="og:site_name" content="Join" />
+  <meta property="article:modified_time" content="2024-08-20T21:35:04+00:00" />
+  <meta property="og:image" content="https://join.build/wp-content/uploads/2023/09/homepage-people.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://join.build/","url":"https://join.build/","name":"Join | Collaborative Project Delivery Platform","isPartOf":{"@id":"https://join.build/#website"},"about":{"@id":"https://join.build/#organization"},"primaryImageOfPage":{"@id":"https://join.build/#primaryimage"},"image":{"@id":"https://join.build/#primaryimage"},"thumbnailUrl":"https://join.build/wp-content/uploads/2023/09/homepage-people.svg","datePublished":"2023-04-20T20:48:22+00:00","dateModified":"2024-08-20T21:35:04+00:00","description":"Join brings together contractors, owners, and design teams to facilitate better decision-making from preconstruction through execution.","breadcrumb":{"@id":"https://join.build/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://join.build/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://join.build/#primaryimage","url":"https://join.build/wp-content/uploads/2023/09/homepage-people.svg","contentUrl":"https://join.build/wp-content/uploads/2023/09/homepage-people.svg"},{"@type":"BreadcrumbList","@id":"https://join.build/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://join.build/#website","url":"https://join.build/","name":"Join","description":"","publisher":{"@id":"https://join.build/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://join.build/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://join.build/#organization","name":"Join","url":"https://join.build/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://join.build/#/schema/logo/image/","url":"https://join.build/wp-content/uploads/2024/03/Black-Logo-Square-with-Padding.png","contentUrl":"https://join.build/wp-content/uploads/2024/03/Black-Logo-Square-with-Padding.png","width":222,"height":222,"caption":"Join"},"image":{"@id":"https://join.build/#/schema/logo/image/"},"sameAs":["https://www.linkedin.com/company/joindotbuild"]}]}</script>
+  <!-- / Yoast SEO plugin. -->
+
+<!-- <head> -->
+<script
+  id="__ada"
+  data-handle="demo-join-build"
+  src="https://static.ada.support/embed2.js"
+></script>
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Join &raquo; Feed" href="https://join.build/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Join &raquo; Comments Feed" href="https://join.build/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/join.build\/wp-includes\/js\/wp-emoji-release.min.js?ver=1695664402"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+  img.wp-smiley, img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+  }
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://join.build/wp-includes/css/dist/block-library/style.min.css?ver=1695664402' type='text/css' media='all' />
+<style id='acf-accordion-style-inline-css' type='text/css'>
+.accordion{padding:var(--mobile);background:white;border-radius:4px;flex:1}.accordion .contents{margin:0 auto;max-width:900px;display:flex;flex-direction:column;gap:2rem 0}.accordion .contents .question{padding:20px;border:1px solid var(--gold);display:flex;flex-direction:column;gap:1rem}.accordion .contents .question .label{font-size:18px;font-weight:800;line-height:26px;display:flex;justify-content:space-between;gap:.25rem;cursor:pointer}.accordion .contents .question .label img{width:25px;height:25px;-webkit-transform:rotate(-90deg);transform:rotate(-90deg);transition:all 250ms ease}.accordion .contents .question.active .label img{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.accordion.alignleft,.accordion.alignright,.accordion.aligncenter{padding-left:0;padding-right:0;width:100%}.accordion.alignleft .contents,.accordion.alignright .contents,.accordion.aligncenter .contents{max-width:unset}.accordion.alignleft .contents{margin:0 auto 0 0}
+
+</style>
+<style id='acf-case-study-style-inline-css' type='text/css'>
+.case-study{padding:var(--mobile)}.case-study .wp-block-columns{padding:0}.case-study .wp-block-columns .wp-block-column p{max-width:unset !important}.case-study .wp-block-columns .wp-block-column .wp-block-image{margin:0;width:45%;position:relative;z-index:100}@media (min-width: 576px){.case-study{padding:var(--mobileLg)}.case-study .wp-block-columns{text-align:center;padding:0}.case-study .wp-block-columns .wp-block-column .wp-block-image{margin:0 auto;width:25%}.case-study .wp-block-columns .wp-block-column h2{width:100%}.case-study .wp-block-columns .wp-block-column .button-cta{align-self:center}}@media (min-width: 782px){.case-study{padding:var(--tablet)}.case-study .wp-block-columns{text-align:left;flex-wrap:nowrap !important}.case-study .wp-block-columns .wp-block-column{justify-content:center}.case-study .wp-block-columns .wp-block-column:nth-of-type(1){flex-basis:33.33% !important}.case-study .wp-block-columns .wp-block-column:nth-of-type(2){flex-basis:66.66% !important}.case-study .wp-block-columns .wp-block-column .wp-block-image{width:80%}.case-study .wp-block-columns .wp-block-column .button-cta{align-self:flex-start}}@media (min-width: 992px){.case-study{padding:var(--laptop)}.case-study .wp-block-columns .wp-block-column:nth-of-type(1){flex-basis:25% !important}.case-study .wp-block-columns .wp-block-column:nth-of-type(2){flex-basis:75% !important}.case-study .wp-block-columns .wp-block-column .wp-block-image{width:90%}}@media (min-width: 1200px){.case-study{padding:var(--desktop)}}@media (min-width: 1200px){.case-study{padding:var(--desktopLg)}}
+
+</style>
+<link rel='stylesheet' id='acf-client-image-testimonial-style-css' href='https://join.build/wp-content/themes/join/blocks/client-image-testimonial/client-image-testimonial.css?ver=1695664402' type='text/css' media='all' />
+<style id='acf-cta-bar-style-inline-css' type='text/css'>
+.cta-bar{text-align:center;padding:var(--mobile)}.cta-bar .contents{display:flex;flex-direction:column;gap:1.25rem 0}.cta-bar .contents h2{width:100%}.cta-bar .contents p{margin:0 auto;max-width:750px}.cta-bar .contents .button-cta{align-self:center;margin-top:var(--s2)}.cta-bar.border-top{border-top:solid 6px var(--gold)}@media (min-width: 576px){.cta-bar{padding:var(--mobileLg)}}@media (min-width: 768px){.cta-bar{padding:var(--tablet)}}@media (min-width: 992px){.cta-bar{padding:var(--laptop)}}@media (min-width: 1200px){.cta-bar{padding:var(--desktop)}}@media (min-width: 1400px){.cta-bar{padding:var(--desktopLg)}}
+
+</style>
+<style id='acf-cta-button-style-inline-css' type='text/css'>
+.button-cta.solid a,.button-cta.simple a{text-decoration:none}.button-cta.solid.alignleft,.button-cta.simple.alignleft{align-self:flex-start}.button-cta.solid.alignright,.button-cta.simple.alignright{align-self:flex-end}.button-cta.solid.aligncenter,.button-cta.simple.aligncenter{align-self:center}.button-cta.solid{font-size:.8rem;font-weight:900;letter-spacing:.03em;padding:10px 35px;background:var(--gold);border-radius:94px;cursor:pointer;transition:all 250ms ease;cursor:pointer;transition:all 250ms ease}.button-cta.solid a{color:var(--black);font:var(--bold);font-size:.8rem;text-transform:uppercase;border-bottom:0}.button-cta.simple a{color:var(--green);font-weight:800;display:flex;transition:all 250ms ease;border-bottom:0}.button-cta.simple a:hover{opacity:.8}.button-cta.simple a:after{align-self:center;content:'';background:url("/wp-content/themes/join/blocks/cta-button/../../assets/images/icon-arrow-gold.svg") no-repeat;margin-left:4px;width:10px;height:13px;display:block}.button-cta.btn-group{display:flex;flex-wrap:wrap;gap:20px;align-items:center}.button-cta.btn-group.alignleft{justify-content:flex-start}.button-cta.btn-group.alignright{justify-content:flex-end}.button-cta.btn-group.aligncenter{justify-content:center}.button-cta.btn-group .solid{font-size:.8rem;font-weight:900;letter-spacing:.03em;padding:10px 35px;background:var(--gold);border-radius:94px;cursor:pointer;transition:all 250ms ease;cursor:pointer;transition:all 250ms ease}.button-cta.btn-group .solid a{color:var(--black);font:var(--bold);font-size:.8rem;text-transform:uppercase;border-bottom:0}.button-cta.btn-group .simple a{color:var(--green);font-weight:800;display:flex;transition:all 250ms ease;border-bottom:0}.button-cta.btn-group .simple a:hover{opacity:.8}.button-cta.btn-group .simple a:after{align-self:center;content:'';background:url("/wp-content/themes/join/blocks/cta-button/../../assets/images/icon-arrow-gold.svg") no-repeat;margin-left:4px;width:10px;height:13px;display:block}
+
+</style>
+<style id='acf-data-numbers-block-style-inline-css' type='text/css'>
+.data-numbers{display:flex;gap:0 1rem}.data-numbers .stat{flex:1}.data-numbers .stat .number{color:#DE7C1D;font:var(--headline);font-size:1.6rem}.data-numbers .stat .desc{font:var(--semibold)}@media (min-width: 576px){.data-numbers{gap:0 2rem}.data-numbers .stat{display:flex;flex-direction:column;gap:.7rem 0}.data-numbers .stat .number{font-size:2.8rem}.data-numbers .stat .desc{font-size:1.2rem}}@media (min-width: 782px){.data-numbers .stat{gap:.5rem 0}.data-numbers .stat .number{font-size:30px;line-height:33px}.data-numbers .stat .desc{font-size:16px;line-height:20px}}@media (min-width: 992px){.data-numbers .stat{gap:0}.data-numbers .stat .number{font-size:36px;line-height:48px}.data-numbers .stat .desc{font-size:21px;line-height:28px}}@media (min-width: 1200px){.data-numbers{justify-content:flex-start;gap:0 4rem}.data-numbers .stat{flex:unset}.data-numbers .stat .number{font-size:36px;line-height:48px}.data-numbers .stat .desc{font-size:21px;line-height:28px}}
+
+</style>
+<style id='acf-image-saturation-style-inline-css' type='text/css'>
+.saturation .image-contain{position:relative}.saturation .image-contain .image{transition:all 250ms ease;width:100%}.saturation .image-contain .image.grayscale{opacity:1}.saturation .image-contain .image.fullcolor{position:absolute;top:0;bottom:0;left:0;right:0;z-index:-10}.saturation.active .image-contain .image.grayscale{opacity:0}@media (min-width: 768px){.saturation .image-contain{height:100%}.saturation .image-contain .image{height:100%}}
+
+</style>
+<style id='acf-integration-block-style-inline-css' type='text/css'>
+.integration{padding:var(--s2);background:white;border-radius:4px;box-shadow:0px 2px 20px rgba(0,0,0,0.06);flex:1}.integration.hide{display:none}.integration.alignleft,.integration.align-right,.integration.align-center{flex:unset}.integration .contents{display:flex;flex-direction:column;gap:1rem 0}.integration .contents .image{margin-bottom:30px;display:flex;flex-direction:column;justify-content:center}.integration .contents .image img{height:auto;width:100%}.integration .contents .image.square{width:90px;height:90px}.integration .contents .image.horizontal{width:175px;height:auto}.integration .contents h2{font-size:24px;width:100%}.integration .contents p{font-size:18px;line-height:30px;margin:0 auto}.integration .contents .button-cta{margin-top:var(--s0)}.integration.featured .contents:before{content:'Featured Integration';color:#555;font-size:16px;font-weight:800;margin-bottom:30px}@media (min-width: 768px){.integration{padding:20px 15px}.integration .contents .image{min-height:95px}.integration .contents .image.square{width:70px;height:70px}.integration .contents .image.horizontal{width:120px}.integration .contents h2{line-height:inherit}}@media (min-width: 992px){.integration{padding:30px}.integration .contents .image.square{width:90px;height:90px}.integration .contents .image.horizontal{width:175px}}
+
+</style>
+<style id='acf-interactive-personas-style-inline-css' type='text/css'>
+.interactive-personas{margin:0 0 0 auto;width:80%;max-width:var(--max);padding:0 5% 0 0;display:flex;flex-direction:column;gap:1rem}.interactive-personas .icons{display:flex;gap:.75rem 0;position:relative;z-index:10}.interactive-personas .icons .persona{text-align:center;transition:all 175ms ease-in;cursor:pointer}.interactive-personas .icons .persona img{width:90%;height:auto;border-radius:7px;border:3px solid var(--line);transition:all 175ms ease-in}.interactive-personas .icons .persona h4{display:none;line-height:1.2rem}.interactive-personas .icons .persona:hover img,.interactive-personas .icons .persona.active img{border:3px solid var(--gold)}.interactive-personas .info{display:flex;flex-direction:column}.interactive-personas .info h2{width:100%}.interactive-personas .info .description{display:none;flex-direction:column;gap:.15rem;min-height:220px}.interactive-personas .info .description h4{margin:0}.interactive-personas .info .description .button-cta{margin-top:10px}.interactive-personas .info .description .button-cta a{color:#37383C;display:flex;transition:all 250ms ease}.interactive-personas .info .description .button-cta a:hover{opacity:.8}.interactive-personas .info .description .button-cta a:after{align-self:center;content:'';background:url("/wp-content/themes/join/blocks/interactive-personas/../../assets/images/icon-arrow-gold.svg") no-repeat;width:13px;height:12px;display:block}.interactive-personas .info .description.active{display:flex}@media (min-width: 576px){.interactive-personas{padding:0 7%}.interactive-personas .icons .persona:hover img,.interactive-personas .icons .persona.active img{border:5px solid var(--gold)}}@media (min-width: 782px){.interactive-personas{justify-content:center;gap:0 5rem}.interactive-personas .info{margin-top:30px}.interactive-personas .info h2{max-width:450px}.interactive-personas .info .description{max-width:350px}}@media (min-width: 992px){.interactive-personas{padding:0 5%;flex-direction:row;justify-content:space-between;gap:0;width:90%}.interactive-personas .icons{flex-direction:row;justify-content:space-between;align-items:center;width:56%}.interactive-personas .icons .persona{width:100px;height:150px;background:var(--white);border:3px solid var(--line);border-radius:7px;transition:all 175ms ease-in}.interactive-personas .icons .persona img{padding:10px 5px 0;border:0}.interactive-personas .icons .persona h4{font-size:11px;line-height:13px;margin:0;display:block}.interactive-personas .icons .persona:hover,.interactive-personas .icons .persona.active{border:3px solid var(--gold);-webkit-transform:scale(1.1);transform:scale(1.1)}.interactive-personas .icons .persona:hover img,.interactive-personas .icons .persona.active img{border:0}.interactive-personas .info{width:40%}.interactive-personas .info .description{min-height:205px}}@media (min-width: 1200px){.interactive-personas{padding:2rem 5%;width:100%;gap:0 4rem}.interactive-personas .icons{padding:0 var(--s2);margin:0 auto;width:50%;gap:0 1rem}.interactive-personas .icons .persona{width:115px;height:140px}.interactive-personas .icons .persona h4{font-size:12px;margin-top:-10px}.interactive-personas .info{margin-right:auto;width:50%}.interactive-personas .info .description{max-width:470px;min-height:190px}}
+
+</style>
+<style id='acf-interactive-white-block-style-inline-css' type='text/css'>
+.interactive-white{padding:var(--mobile);margin:0 0 0 auto;width:90%}.interactive-white h2{text-align:center;margin-bottom:var(--s2);width:100%}.interactive-white .topics{display:flex;flex-direction:column;justify-content:center;gap:.5rem 0;padding:10px;background:var(--gray);border-radius:10px}.interactive-white .topics .topic{color:#555;font-size:1rem;font-weight:700;text-align:center;padding:5px;border-radius:0px;width:100%;transition:all 250ms ease}.interactive-white .topics .topic.active{color:var(--black);background:var(--gold);border-radius:5px}.interactive-white .topics .topic.active:hover{background:var(--gold)}.interactive-white .topics .topic:hover{background:#e7e4e4;border-radius:5px}.interactive-white .viewer{padding:20px;margin-top:10px;background:var(--gray);border-radius:10px}.interactive-white .viewer .panel{display:none}.interactive-white .viewer .panel .info{padding:0;display:flex;flex-direction:column;justify-content:flex-start}.interactive-white .viewer .panel .info .title{display:flex;align-items:center;gap:0 .15rem}.interactive-white .viewer .panel .info .title .icon{width:50px;height:50px}.interactive-white .viewer .panel .info .title h4{font-size:1rem;font-weight:900;margin:0}.interactive-white .viewer .panel .info p{text-align:left}.interactive-white .viewer .panel .info ul{margin:0 0 0 20px}.interactive-white .viewer .panel .info ul li{margin:10px 0}.interactive-white .viewer .panel .image{margin-bottom:10px}.interactive-white .viewer .panel .image img{width:100%;height:auto;-webkit-filter:drop-shadow(0 2px 30px rgba(0,0,0,0.08));filter:drop-shadow(0 2px 30px rgba(0,0,0,0.08))}.interactive-white .viewer .panel.active{display:flex;flex-direction:column-reverse}@media (min-width: 576px){.interactive-white .topics{padding:5px;flex-direction:row}.interactive-white .topics .topic{font-size:.9rem;line-height:1rem;display:flex;flex-direction:column;justify-content:center;border-radius:10px;cursor:pointer}.interactive-white .viewer .panel .info .title h4{font-size:1.3rem}}@media (min-width: 768px){.interactive-white{padding:var(--tablet)}.interactive-white h2{margin-bottom:var(--s3)}.interactive-white .topics{gap:.5rem 0}.interactive-white .topics .topic{font-size:1.1rem;line-height:1.2rem;padding:20px}.interactive-white .topics .topic.active{padding:20px}.interactive-white .viewer{padding:60px;margin-top:25px;min-height:830px}.interactive-white .viewer .panel{gap:30px 0}.interactive-white .viewer .panel .info ul{margin:0 0 10px 30px}.interactive-white .viewer .panel .image{margin:0 auto;max-width:75%}}@media (min-width: 992px){.interactive-white{padding:var(--laptop);width:90%}.interactive-white h2{margin-left:auto;margin-right:auto;margin-bottom:var(--s4);max-width:80%}.interactive-white .topics .topic{font-size:1.2rem}.interactive-white .viewer{padding:40px;min-height:600px;display:flex;flex-direction:column;justify-content:center}.interactive-white .viewer .panel{gap:0 50px;align-items:center}.interactive-white .viewer .panel .info{width:58%}.interactive-white .viewer .panel .image{margin:0;width:42%;display:flex;flex-direction:column;justify-content:center}.interactive-white .viewer .panel.active{flex-direction:row}}@media (min-width: 1200px){.interactive-white{padding:var(--desktop);margin:0 0 0 auto}.interactive-white .viewer{padding:60px;min-height:645px}.interactive-white .viewer .panel{gap:0 50px}}@media (min-width: 1400px){.interactive-white{padding:var(--desktopLg)}.interactive-white .viewer .panel .info{width:45%}.interactive-white .viewer .panel .info p{max-width:348px}.interactive-white .viewer .panel .image{width:55%}}
+
+</style>
+<link rel='stylesheet' id='acf-logo-slider-style-css' href='https://join.build/wp-content/themes/join/blocks/logo-slider/swiper.min.css?ver=1695664402' type='text/css' media='all' />
+<style id='acf-logo-slider-style-2-inline-css' type='text/css'>
+.logo-slider{margin:0 auto;width:100%}.logo-slider .swiper-wrapper .swiper-slide{text-align:center;align-self:center}.logo-slider .swiper-wrapper .swiper-slide img{-webkit-filter:grayscale(100%);filter:grayscale(100%);width:50%;height:auto}.logo-slider .swiper-button-next:after,.logo-slider .swiper-button-prev:after{content:'';width:13px;height:23px}.logo-slider .swiper-button-next:after{background:url("/wp-content/themes/join/blocks/logo-slider/../../assets/images/icon-arrow-gray.svg") no-repeat !important}.logo-slider .swiper-button-prev:after{background:url("/wp-content/themes/join/blocks/logo-slider/../../assets/images/icon-arrow-gray.svg") no-repeat !important;-webkit-transform:rotate(180deg);transform:rotate(180deg)}@media (min-width: 576px){.logo-slider .swiper-button-next,.logo-slider .swiper-rtl .swiper-button-prev{right:-10px}.logo-slider .swiper-button-prev,.logo-slider .swiper-rtl .swiper-button-next{left:-10px}}@media (min-width: 992px){.logo-slider .swiper-wrapper .swiper-slide img{width:115px;height:auto}}
+
+</style>
+<link rel='stylesheet' id='acf-quote-ticker-style-css' href='https://join.build/wp-content/themes/join/blocks/quote-ticker/swiper.min.css?ver=1695664402' type='text/css' media='all' />
+<style id='acf-quote-ticker-style-2-inline-css' type='text/css'>
+.quote-ticker{padding:3rem 0}.quote-ticker .contents h2{text-align:center;width:100%}.quote-ticker .contents .swiper{margin-top:50px}.quote-ticker .contents .swiper .swiper-wrapper{transition-timing-function:linear;align-items:center}.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{text-align:center;padding:10px 20px;border-radius:6px;background:var(--gold)}@media (min-width: 576px){.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{font-size:14px;padding:10px 5px}}@media (min-width: 782px){.quote-ticker{padding:4rem 0}.quote-ticker .contents .swiper{margin-top:60px}.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{font-size:18px;padding:20px}}@media (min-width: 992px){.quote-ticker{padding:5rem 0}.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{font-size:21px}}@media (min-width: 1200px){.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{font-size:18px;padding:20px 15px}}@media (min-width: 1400px){.quote-ticker{padding:4rem 0}.quote-ticker .contents .swiper .swiper-wrapper .swiper-slide h5{font-size:21px;padding:20px}}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--gold: #F6B901;--wp--preset--color--gray: #F8F7F7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-gold-color{color: var(--wp--preset--color--gold) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-gold-background-color{background-color: var(--wp--preset--color--gold) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-gold-border-color{border-color: var(--wp--preset--color--gold) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='google-fonts-css' href='//fonts.googleapis.com/css2?family=Red+Hat+Display%3Awght%40400%3B600%3B900&#038;display=swap&#038;ver=6.5.5.1695664402' type='text/css' media='all' />
+<link rel='stylesheet' id='join-style-css' href='https://join.build/wp-content/themes/join/style.css?ver=1695664402' type='text/css' media='all' />
+<link rel='stylesheet' id='home-sherpa-style-css' href='https://join.build/wp-content/themes/join/assets/styles/home-sherpa.css?ver=1695664402' type='text/css' media='all' />
+<script type="text/javascript" src="https://join.build/wp-includes/js/jquery/jquery.min.js?ver=1695664402" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://join.build/wp-includes/js/jquery/jquery-migrate.min.js?ver=1695664402" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://join.build/wp-json/" /><link rel="alternate" type="application/json" href="https://join.build/wp-json/wp/v2/pages/1982" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://join.build/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://join.build/' />
+<link rel="alternate" type="application/json+oembed" href="https://join.build/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoin.build%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://join.build/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjoin.build%2F&#038;format=xml" />
+      <!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.1.40-->
+      <script class="hsq-set-content-id" data-content-id="standard-page">
+        var _hsq = _hsq || [];
+        _hsq.push(["setContentType", "standard-page"]);
+      </script>
+      <!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJFZJLS');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://join.build/wp-content/uploads/2023/05/cropped-cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://join.build/wp-content/uploads/2023/05/cropped-cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://join.build/wp-content/uploads/2023/05/cropped-cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://join.build/wp-content/uploads/2023/05/cropped-cropped-favicon-270x270.png" />
+</head>
+<body class="home page-template-default page page-id-1982 header-full-width full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-hidden sherpa"><div class="site-container"><header class="site-header">  <div class="container">
+    <div class="logo">
+      <a href="https://join.build"><img src="https://join.build/wp-content/themes/join/assets/images/logo.svg" alt="Join" /></a>
+    </div>
+          <button class="menu-toggle" role="button" aria-pressed="false"><img class="ham" src="https://join.build/wp-content/themes/join/assets/images/hamburger.svg" alt="Main Menu"/><img class="close" src="https://join.build/wp-content/themes/join/assets/images/close.svg" alt="Close Menu"/></button>
+      <div class="menu-header-navigation-container"><ul id="menu-header-navigation" class="menu"><li id="menu-item-2162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2162"><a href="https://join.build/who-we-serve/">Who We Serve</a>
+<div class="sub-menu-wrapper"><ul class="sub-menu">
+  <li id="menu-item-2163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2163"><a href="/who-we-serve/#general-contractors">General Contractors</a></li>
+  <li id="menu-item-2164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2164"><a href="/who-we-serve/#owners">Owners</a></li>
+  <li id="menu-item-2165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2165"><a href="/who-we-serve/#design-teams">Design Teams</a></li>
+  <li id="menu-item-2166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2166"><a href="/who-we-serve/#trades">Trades</a></li>
+</ul></div>
+</li>
+<li id="menu-item-2161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2161"><a href="https://join.build/platform/">Platform</a>
+<div class="sub-menu-wrapper"><ul class="sub-menu">
+  <li id="menu-item-2167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2167"><a href="/platform/#join">Join</a></li>
+  <li id="menu-item-2169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2169"><a href="/platform/#insights">Insights</a></li>
+  <li id="menu-item-2168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2168"><a href="/platform/#forecasting">Forecasting</a></li>
+  <li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href="https://join.build/pricing/">Pricing</a></li>
+</ul></div>
+</li>
+<li id="menu-item-3276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3276"><a href="#">Resources</a>
+<div class="sub-menu-wrapper"><ul class="sub-menu">
+  <li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2191"><a href="https://join.build/integrations/">Integrations</a></li>
+  <li id="menu-item-3801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3801"><a href="/case-studies/">Case Studies</a></li>
+  <li id="menu-item-4527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4527"><a href="https://join.build/news/category/blog/">Blog</a></li>
+  <li id="menu-item-2193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2193"><a href="https://join.build/faq/">FAQ</a></li>
+</ul></div>
+</li>
+<li id="menu-item-3447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3447"><a href="https://join.build/company/">Company</a>
+<div class="sub-menu-wrapper"><ul class="sub-menu">
+  <li id="menu-item-3448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3448"><a href="/company/#about">About</a></li>
+  <li id="menu-item-2196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2196"><a href="/company/#careers">Careers</a></li>
+  <li id="menu-item-2188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2188"><a href="https://join.build/news/">News</a></li>
+  <li id="menu-item-2194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2194"><a href="https://join.build/contact-us/">Contact</a></li>
+</ul></div>
+</li>
+<li id="menu-item-3278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3278"><a href="#">Support</a>
+<div class="sub-menu-wrapper"><ul class="sub-menu">
+  <li id="menu-item-2197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2197"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge">Success Hub</a></li>
+  <li id="menu-item-2198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2198"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/getting-started">Getting Started</a></li>
+  <li id="menu-item-2199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2199"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/whats-new-in-join/">Product Updates</a></li>
+  <li id="menu-item-2201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2201"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/webinars">Webinars</a></li>
+</ul></div>
+</li>
+<li id="menu-item-2203" class="login menu-item menu-item-type-custom menu-item-object-custom menu-item-2203"><a target="_blank" rel="noopener" href="https://app.join.build/">Login</a></li>
+<li id="menu-item-2202" class="cta menu-item menu-item-type-post_type menu-item-object-page menu-item-2202"><a href="https://join.build/book-demo/">Book a Demo</a></li>
+</ul></div>     </div>
+  <div class="wrap"></div></header><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content"> <article class="page type-page status-publish entry" aria-label="Homepage">
+    <div class="entry-content"> 
+      
+<div class="wp-block-group hero path-1 is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-columns hero is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%" id="top-trigger">
+<figure class="saturation wp-block-image aligncenter size-full" id="top-trigger">
+  <div class="image-contain">
+    <div class="image grayscale">
+      <img fetchpriority="high" decoding="async" class="container-image" src="https://join.build/wp-content/uploads/2023/09/homepage-grayscale-1.svg" alt="" width="576" height="372" />
+    </div>
+    <div class="image fullcolor">
+      <img decoding="async" class="container-image" src="https://join.build/wp-content/uploads/2023/09/homepage-color-1.svg" alt="" width="576" height="372"/>
+    </div>
+  </div>
+</figure></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<h1 class="wp-block-heading">Collaboration. <br>Still <strong>undefeated.</strong></h1>
+
+
+
+<p>Modern construction is built on collaboration. Join brings together contractors, owners, and design teams to facilitate better decision-making throughout the project journey. Because working together is how better gets built.</p>
+
+
+<div class="data-numbers ">
+            <div class="stat">
+            <div class="number">1,000+</div>
+            <div class="desc">Companies</div>
+        </div>
+                <div class="stat">
+            <div class="number">1,000+</div>
+            <div class="desc">Projects</div>
+        </div>
+                <div class="stat">
+            <div class="number">$10B+</div>
+            <div class="desc">Decision Impact</div>
+        </div>
+    </div></div>
+</div>
+
+
+
+
+<div class="wp-block-columns client-image-testimonial is-style-no-top-padding join-gray">
+    <div class="wp-block-columns">
+        <div class="wp-block-column">
+                            <div class="image">
+                    <img decoding="async" src="https://join.build/wp-content/uploads/2022/12/Melanie.jpg" alt="" />
+                </div>
+                    </div>
+        <div class="wp-block-column">
+            <div class="quote">
+                <h3><p>“My only regret is that we didn’t use <strong>Join earlier</strong> in the process.”</p>
+</h3>
+                <div class="attr">
+                                            <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/dpr-logo.svg" alt="" />
+                                        <div class="person">
+                        <div class="name">Melanie Moreschi</div>
+                        <p> Healthcare Core Market Leader</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="button-cta">
+                <a href="https://join.build/case-studies/dpr-rodgers-atrium/" target="_self"><img decoding="async" src="https://join.build/wp-content/themes/join/assets/images/icon-arrow-gold-circle.svg" alt="Button leading to case study" /></a>
+            </div>
+            </div>
+</div>
+
+
+<div class="container is-style-no-top-padding is-style-join-gray  ">
+    <div class="container-inside">
+            <div class="container-content">
+
+<div class="wp-block-group is-vertical is-content-justification-center is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">    <div class="logo-slider swiper clients">
+        <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/swinerton-grey-1.svg" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/DPR-Grey-1.svg" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/Boldt-Logo-1.svg" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/CLARK-1.svg" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/04/KITCHELL.svg" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/05/level-10-construction-logo-removebg-preview.png" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/05/mcgough-logo-removebg-preview.png" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/05/weoneill_logo-removebg-preview.png" alt="" />
+                    </div>
+                                    <div class="swiper-slide">
+                        <img decoding="async" src="https://join.build/wp-content/uploads/2023/05/xlconstruction_logo_copy-removebg-preview.png" alt="" />
+                    </div>
+                        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
+
+
+<p class="has-text-align-center">Join the more than 400 companies that are using the construction industry’s leading project delivery platform to improve collaboration, realize their visions, and achieve their goals.</p>
+
+
+
+    <div class="button-cta solid">
+        <a href="https://join.build/platform/" target="_self">Explore Join</a>
+    </div>
+</div>
+
+</div>
+    </div>
+</div>
+
+
+<div class="container architecture  bkgd-building ">
+    <div class="container-inside">
+              <div class="container-image-wrap">
+          <img decoding="async" class="container-image" src="https://join.build/wp-content/uploads/2023/04/bkgd-drawing-1.svg" alt="" />
+        </div>
+            <div class="container-content">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-large" id="trigger"><img decoding="async"  src="https://join.build/wp-content/uploads/2023/09/homepage-people.svg" alt="" class="wp-image-3959"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Thousands of decisions,<br>made better</h2>
+
+
+
+<p>Every construction project involves thousands of decisions that can directly impact business case, design, timeline, and budget. Join empowers teams to make better, more informed decisions throughout the project lifecycle, from design and preconstruction to final execution.</p>
+</div>
+</div>
+
+</div>
+    </div>
+</div></div>
+
+
+
+<div class="wp-block-group path-2 is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="container end-scroll-1 is-style-join-gray  remove-margin">
+    <div class="container-inside">
+            <div class="container-content">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Cost, timeline, and design integrity, built in</h2>
+
+
+
+<p>Join is the only platform that organizes owners, designers and construction teams around a single source of truth – an easy-to-access repository of real-time data and decision history. Teams are able to make faster, more confident decisions on the path to cost and&nbsp;design certainty.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-style-shadow"><img decoding="async" width="876" height="737" src="https://join.build/wp-content/uploads/2023/04/Join-HUD-1@2x.png" alt="Vector rendering of Join's dashboard view" class="wp-image-2145" srcset="https://join.build/wp-content/uploads/2023/04/Join-HUD-1@2x.png 876w, https://join.build/wp-content/uploads/2023/04/Join-HUD-1@2x-300x252.png 300w, https://join.build/wp-content/uploads/2023/04/Join-HUD-1@2x-768x646.png 768w" sizes="(max-width: 876px) 100vw, 876px" /></figure>
+</div>
+</div>
+
+</div>
+    </div>
+</div>
+
+<div id="trigger2" class="interactive-personas">
+    <div class="icons">
+                    <div id="persona-1" class="persona active">
+                <img decoding="async" src="https://join.build/wp-content/uploads/2023/09/Persona-Icon_GC-1.svg" alt="" />
+                <h4>General Contractors</h4>
+            </div>
+                    <div id="persona-2" class="persona">
+                <img decoding="async" src="https://join.build/wp-content/uploads/2023/09/Persona-Icon_Owners-1.svg" alt="" />
+                <h4>Owners &#038; Developers</h4>
+            </div>
+                    <div id="persona-3" class="persona">
+                <img decoding="async" src="https://join.build/wp-content/uploads/2023/09/Persona-Icon_DesignTeam-1.svg" alt="" />
+                <h4>Design Teams</h4>
+            </div>
+                    <div id="persona-4" class="persona">
+                <img decoding="async" src="https://join.build/wp-content/uploads/2023/09/Persona-Icon_Trades-1.svg" alt="" />
+                <h4>Trades</h4>
+            </div>
+            </div>
+    <div class="info">
+       <h2>Individual goals, collective success</h2>
+                    <div data-desc="persona-1" class="description active">
+                <h4>General Contractors</h4>
+                <p>General contractors start projects on time, with better alignment, greater cost certainty and well-understood risk</p>
+                        <div class="button-cta simple"><a href="https://join.build/who-we-serve/#general-contractors" target="_self">Learn More</a></div>
+            </div>
+                    <div data-desc="persona-2" class="description">
+                <h4>Owners &#038; Developers</h4>
+                <p>Owners realize their vision and business case, at budget </p>
+                        <div class="button-cta simple"><a href="https://join.build/who-we-serve/#owners" target="_self">Learn More</a></div>
+            </div>
+                    <div data-desc="persona-3" class="description">
+                <h4>Design Teams</h4>
+                <p>Design teams see their designs come to life, with greater integrity and cost certainty</p>
+                        <div class="button-cta simple"><a href="https://join.build/who-we-serve/#design-teams" target="_self">Learn More</a></div>
+            </div>
+                    <div data-desc="persona-4" class="description">
+                <h4>Trades</h4>
+                <p>Trades are involved earlier, get out more quickly, with better communication and less guesswork</p>
+                        <div class="button-cta simple"><a href="https://join.build/who-we-serve/#trades" target="_self">Learn More</a></div>
+            </div>
+            </div>    
+</div></div>
+
+
+
+<div class="wp-block-group path-3 is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="container last-sherpa is-style-join-gray  ">
+    <div class="container-inside">
+            <div class="container-content">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Forward progress, not never-ending email threads</h2>
+
+
+
+<p>Boundaries between construction phases are disappearing. Join helps to eliminate silos (and inbox bottlenecks), enabling teams to invest more in each other, creating greater transparency, uncovering opportunities, and building momentum toward a shared goal.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-large is-resized is-style-shadow"><img decoding="async"  src="https://join.build/wp-content/uploads/2023/09/HomePage_MilestoneSummaryReport-View-updated.svg" alt="" class="wp-image-3971" style="width:576px;height:undefinedpx"/></figure>
+</div>
+</div>
+
+</div>
+    </div>
+</div>
+
+
+<div class="container is-style-no-padding  bkgd-building ">
+    <div class="container-inside">
+              <div class="container-image-wrap">
+          <img decoding="async" class="container-image" src="https://join.build/wp-content/uploads/2023/04/AdobeStock_142320415-1.png" alt="" />
+        </div>
+            <div class="container-content">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Visualize it. Analyze it. <br>Build it better.</h2>
+
+
+
+<p>Whether you’re swapping out light switches or an entire structural system, Join’s highly visual and team-centered platform makes it easier to incorporate critical factors like cost, timeline, design, constructability, supply chain and the owner’s business case into the decision process. It connects the right people to the right information at the time of the decision.</p>
+</div>
+</div>
+
+</div>
+    </div>
+</div></div>
+
+
+
+<div class="container border-top footer-cta remove-margin is-style-join-gray  remove-margin">
+    <div class="container-inside">
+            <div class="container-content">
+
+<div class="wp-block-group is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-5 wp-block-group-is-layout-flex" style="padding-top:0;padding-bottom:0;padding-left:0">
+<h2 class="wp-block-heading has-text-align-left">Better outcomes today.<strong> </strong><br><strong>Greater opportunities tomorrow.</strong></h2>
+
+
+
+<p class="has-text-align-left">Construction delivery methods of all kinds – from Design Build to CMAR to TVD – benefit from Join’s ability to help project teams make timely, informed decisions together. Workflows work better and projects are delivered faster and on budget.</p>
+
+
+
+<p class="has-text-align-left">Join becomes even more valuable over time, offering a birds-eye view of projects and portfolios that teams can use to monitor portfolio activity, estimate future jobs with precision, mitigate risk and win even more work.</p>
+
+
+
+    <div class="button-cta solid">
+        <a href="https://join.build/book-demo/" target="_self">Book a Demo</a>
+    </div>
+</div>
+
+</div>
+    </div>
+</div>    </div>
+  </article>
+</main></div></div></div><footer class="site-footer">   <div class="container">
+      <div class="logo">
+        <a href="https://join.build" aria-label="Link to homepage"><img src="https://join.build/wp-content/themes/join/assets/images/logo-white.svg" alt="" /></a>
+        <div class="address">
+          1611 Telegraph Ave,<br/>
+          Suite 1500<br/>
+          Oakland, CA 94612
+        </div>
+      </div>
+      <div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-2217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2217"><a href="https://join.build/who-we-serve/">Who We Serve</a>
+<ul class="sub-menu">
+  <li id="menu-item-2218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2218"><a href="/who-we-serve/#general-contractors">General Contractors</a></li>
+  <li id="menu-item-2219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2219"><a href="/who-we-serve/#owners">Owners</a></li>
+  <li id="menu-item-2220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2220"><a href="/who-we-serve/#design-teams">Design Teams</a></li>
+  <li id="menu-item-2221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2221"><a href="/who-we-serve/#trades">Trades</a></li>
+</ul>
+</li>
+<li id="menu-item-2216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2216"><a href="https://join.build/platform/">Platform</a>
+<ul class="sub-menu">
+  <li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2212"><a href="https://join.build/pricing/">Pricing</a></li>
+  <li id="menu-item-2222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2222"><a href="/platform/#join">Join</a></li>
+  <li id="menu-item-2224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2224"><a href="/platform/#insights">Insights</a></li>
+  <li id="menu-item-2223" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2223"><a href="/platform/#forecasting">Forecasting</a></li>
+</ul>
+</li>
+<li id="menu-item-3273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3273"><a href="#">Resources</a>
+<ul class="sub-menu">
+  <li id="menu-item-2208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2208"><a href="https://join.build/integrations/">Integrations</a></li>
+  <li id="menu-item-3802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3802"><a href="/case-studies/">Case Studies</a></li>
+  <li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://join.build/news/">News</a></li>
+  <li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2207"><a href="https://join.build/faq/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-3445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3445"><a href="https://join.build/company/">Company</a>
+<ul class="sub-menu">
+  <li id="menu-item-3446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3446"><a href="/company/#about">About</a></li>
+  <li id="menu-item-2226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2226"><a href="/company/#careers">Careers</a></li>
+  <li id="menu-item-2205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2205"><a href="https://join.build/contact-us/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-3275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3275"><a href="#">Support</a>
+<ul class="sub-menu">
+  <li id="menu-item-2227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2227"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge">Success Hub</a></li>
+  <li id="menu-item-2228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2228"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/getting-started">Getting Started</a></li>
+  <li id="menu-item-2229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2229"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/whats-new-in-join/">Product Updates</a></li>
+  <li id="menu-item-2231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2231"><a target="_blank" rel="noopener" href="https://success.join.build/en/knowledge/webinars">Webinars</a></li>
+</ul>
+</li>
+<li id="menu-item-2232" class="login menu-item menu-item-type-custom menu-item-object-custom menu-item-2232"><a target="_blank" rel="noopener" href="https://app.join.build/">Login</a></li>
+<li id="menu-item-2204" class="cta menu-item menu-item-type-post_type menu-item-object-page menu-item-2204"><a href="https://join.build/book-demo/">Book a Demo</a></li>
+</ul></div>     <div class="terms">
+        <div class="menu-terms-privacy-container"><ul id="menu-terms-privacy" class="menu"><li id="menu-item-2238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"><a href="https://join.build/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-2237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2237"><a href="https://join.build/privacy/">Privacy</a></li>
+</ul></div>       <div class="copyright">
+          <p>© 2024 - Join | All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+</div>  <script type="text/javascript">
+    function genesisBlocksShare( url, title, w, h ){
+      var left = ( window.innerWidth / 2 )-( w / 2 );
+      var top  = ( window.innerHeight / 2 )-( h / 2 );
+      return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+    }
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJFZJLS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-columns-is-layout-1.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-group-is-layout-1.wp-container-core-group-is-layout-1{flex-direction:column;align-items:center;}.wp-container-core-columns-is-layout-2.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-4.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-5.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;}.wp-container-core-group-is-layout-5.wp-container-core-group-is-layout-5{flex-direction:column;align-items:flex-start;}
+</style>
+<script type="text/javascript" src="https://join.build/wp-admin/js/accordion.min.js?ver=1695664402" id="accordion-js"></script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"11.1.40"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/8897459.js?integration=WordPress&amp;ver=11.1.40.1695664402" id="leadin-script-loader-js-js"></script>
+<script type="text/javascript" src="https://join.build/wp-content/themes/join/assets/js/main.min.js?ver=1695664402" id="customscripts-js"></script>
+<script type="text/javascript" src="https://join.build/wp-content/themes/join/assets/js/home-sherpa.min.js?ver=1695664402" id="home-sherpa-scripts-js"></script>
+<script type="text/javascript" src="https://join.build/wp-content/themes/join/blocks/logo-slider/swiper.min.js?ver=1695664402" id="swiper-js"></script>
+<script type="text/javascript" src="https://join.build/wp-content/themes/join/blocks/logo-slider/block-swiper.min.js?ver=1695664402" id="slider-magic-js"></script>
+<script type="text/javascript" src="https://join.build/wp-content/themes/join/blocks/interactive-personas/block-interactive-personas.min.js?ver=1695664402" id="interactive-personas-js"></script>
+</body></html>
